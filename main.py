@@ -3,7 +3,7 @@ import os
 TEXT = """Someone carries you up the stairs the way they always have.
 Your cheek finds the shoulder that knows your weight.
 Below, the house settles. The kettle ticks itself cool.
-Above the roof, the stars keep their slow, old watch,
+Above the roof, the stars hold their slow, old watch,
 and the arms around you do not let go."""
 
 def main():
